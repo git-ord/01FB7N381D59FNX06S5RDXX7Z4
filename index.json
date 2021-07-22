@@ -9,7 +9,7 @@
   },
   "id": "01FB7N381D59FNX06S5RDXX7Z4",
   "url": "https://github.com/git-ord/01FB7N381D59FNX06S5RDXX7Z4.git",
-  "status": "submitted",
+  "status": "completed",
   "customer_notes": "",
   "admin_notes": "",
   "created_at": "2021-07-22T17:44:31+00:00",
@@ -22,7 +22,9 @@
     "amount": 7464.6,
     "currency": "USD"
   },
-  "discounts": [],
+  "discounts": [
+
+  ],
   "taxes": [
     {
       "type": "sales tax",
